@@ -9,11 +9,6 @@ StarTracker is a SwiftUI application designed to help you track important events
 - **Event Details**: Click on an event to view its details and delete it if needed.
 - **Persistent Storage**: Events are saved using UserDefaults, ensuring they persist across app launches.
 
-## Screenshots
-
-![Add Event](screenshots/add_event.jpeg){ width=300px }
-![Event List](screenshots/event_list.jpeg){ width=300px }
-![Event Details](screenshots/event_details.jpeg){ width=300px }
 ## Installation
 
 1. Clone the repository:
