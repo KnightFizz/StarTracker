@@ -11,9 +11,9 @@ StarTracker is a SwiftUI application designed to help you track important events
 
 ## Screenshots
 
-![Add Event](screenshots/add_event.png)
-![Event List](screenshots/event_list.png)
-![Event Details](screenshots/event_details.png)
+![Add Event](screenshots/add_event.jpeg)
+![Event List](screenshots/event_list.jpeg)
+![Event Details](screenshots/event_details.jpeg)
 
 ## Installation
 
